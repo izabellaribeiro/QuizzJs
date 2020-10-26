@@ -64,8 +64,23 @@ body {
     transition: .5s;
 }
 
-#restar:hover {
+#restart:hover {
     background-color: transparent;
     border-color: #e78230;
     color: #e78230;
+}
+
+/*Quiz container*/
+
+#quizz-container {
+    width: 500px;
+    margin: 50px auto;
+    border: 1px solid #cddde8;
+    padding: 25px;
+    border-radius: 25px;
+}
+
+#question {
+    text-align: center;
+    margin-bottom: 25px;
 }
