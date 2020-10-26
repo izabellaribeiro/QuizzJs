@@ -130,14 +130,14 @@ body {
     font-size: 16px;
 }
 
-#quizz-container l.wrong-answer, 
-#quizz-container l.wrong-answer .btn-letter{
+#quizz-container .wrong-answer, 
+#quizz-container .wrong-answer .btn-letter{
     background-color: #e62210;
     color: white;
 }
 
-#quizz-container l.correct-answer, 
-#quizz-container l.correct-answer .btn-letter{
+#quizz-container .correct-answer, 
+#quizz-container .correct-answer .btn-letter{
     background-color: #40b576;
     color: white;
 }
