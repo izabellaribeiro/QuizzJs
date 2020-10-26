@@ -14,3 +14,13 @@ body {
 .hide {
     display: none !important;
 }
+
+#main-title {
+    padding: 40px 0;
+    text-align: center;
+    background-color: #2d425a;
+    border-bottom-left-radius:50px;
+    border-bottom-right-radius: 50px;
+}
+
+/*Score container*/
