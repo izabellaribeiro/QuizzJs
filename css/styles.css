@@ -44,3 +44,28 @@ body {
     font-size: 32px;
     font-weight: bold;
 }
+
+#correct-answers {
+    font-weight: bold;
+    color: #075ea4;
+}
+
+#restart {
+    background-color: #e78230;
+    color: white;
+    font-weight: bold;
+    height: 50px;
+    border-radius: 25px;
+    border: 2px solid transparent;
+    width: 180px;
+    text-transform: uppercase;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+#restar:hover {
+    background-color: transparent;
+    border-color: #e78230;
+    color: #e78230;
+}
