@@ -1,1 +1,1 @@
-# QuizzJs
+# QuizzJS
