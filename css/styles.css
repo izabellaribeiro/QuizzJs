@@ -11,9 +11,9 @@ body {
     color: white;
 }
 
-.hide {
+/*.hide {
     display: none !important;
-}
+}*/
 
 #main-title {
     padding: 40px 0;
@@ -24,3 +24,23 @@ body {
 }
 
 /*Score container*/
+
+#score-container {
+    background-color: #cddde8;
+    color: black;
+    text-align: center;
+    width: 300px;
+    margin: 50px auto;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+#score-container p {
+    font-size: 14px;
+    margin: 20px 0;
+}
+
+#score-container #display-score {
+    font-size: 32px;
+    font-weight: bold;
+}
