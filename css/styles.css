@@ -105,3 +105,21 @@ body {
     cursor: pointer;
     transition: .5s;
 }
+
+#answers-box button:hover{
+    background-color: #e78230;
+    color: white;
+}
+
+#answers-box .btn-letter {
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #e78230;
+    color: white;
+    border-radius: 50%;
+    line-height: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    flex: 1 1 0;
+    max-width: 40px;
+}
