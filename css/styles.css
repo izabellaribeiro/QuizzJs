@@ -100,7 +100,7 @@ body {
     background-color: #cddde8;
     border: 2px solid transparent;
     text-align: left;
-    padding-left: 5px;
+    padding-left:5px;
     color: black;
     cursor: pointer;
     transition: .5s;
@@ -123,3 +123,10 @@ body {
     flex: 1 1 0;
     max-width: 40px;
 }
+
+.question-answer {
+    flex: 1 1 0;
+    margin-left: 10px;
+    font-size: 16px;
+}
+
